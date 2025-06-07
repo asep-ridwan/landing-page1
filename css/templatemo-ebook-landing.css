@@ -553,9 +553,9 @@ strong {
   HERO        
 -----------------------------------------*/
 .hero-section {
-  background-image: url('../images/businessman-sitting-by-table-cafe.jpg');
+  background-image: url('../images/logo-MERAH-1.png');
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: auto;
   background-position: center;
   position: relative;
   padding-top: 50px;
